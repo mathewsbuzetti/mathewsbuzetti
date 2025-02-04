@@ -1,7 +1,6 @@
 # Mathews Buzetti | Azure Solutions Architect 🚀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewsbuzetti)
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-blue?style=for-the-badge&logo=microsoft)](https://mvp.microsoft.com/)
 [![Azure](https://img.shields.io/badge/Azure-Expert-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/microsoft-certified-azure-solutions-architect-expert)
 
 ## 💫 Sobre Mim
@@ -32,6 +31,8 @@
 ## 🎓 Certificações
 
 <div align="center">
+
+![image](https://github.com/user-attachments/assets/47efc279-7063-457f-990e-39b044a458b9)
 
 ![Cybersecurity Architect](https://img.shields.io/badge/Microsoft-Cybersecurity_Architect_Expert-blue?style=for-the-badge&logo=microsoft)
 ![DevOps Engineer](https://img.shields.io/badge/Microsoft-DevOps_Engineer_Expert-blue?style=for-the-badge&logo=microsoft)
