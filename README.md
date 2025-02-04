@@ -50,18 +50,19 @@
 ## 🌟 Principais Projetos
 
 ### [azure-infrastructure-template](https://github.com/mathewsbuzetti/azure-infrastructure-template)
-- Template IaC (Infrastructure as Code) para deploy completo de ambiente Azure
-- Implementação de Máquinas Virtuais, Networking e VPN Gateway
-- Features de Backup e Automação
-- Interface web para fácil gerenciamento
+Template IaC para ambiente Azure corporativo completo:
+- 🏗️ Windows Server 2022 + Alta Disponibilidade
+- 🔒 VPN Gateway (S2S e P2S) + NSG
+- 💾 Backup e Recovery Services
+- 🤖 Automação de start/stop para redução de custos
 - **Tech Stack:** PowerShell, Azure ARM Templates
 
 ### [azure-securonix-deployment](https://github.com/mathewsbuzetti/azure-securonix-deployment)
-- Template ARM para criação de VM Oracle Linux
-- Configurações específicas para Securonix
-- Implementação de práticas de segurança
-- Automação de deployment
-- **Tech Stack:** ARM Templates, Linux, Security Best Practices
+Template ARM otimizado para Securonix SIEM:
+- 🖥️ Oracle Linux 8.10 (4 vCPUs, 16GB RAM)
+- 💽 Storage (128GB SO + 300GB Premium)
+- 🔧 Configuração LVM
+- **Tech Stack:** ARM Templates, Shell Script
 
 ## 📫 Contato
 
