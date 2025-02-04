@@ -67,13 +67,7 @@
 
 Estou disponível para consultorias, projetos e parcerias. Entre em contato!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mathewsbuzetti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewsbuzetti)
 
 > "Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da inovação digital." 🚀
 
