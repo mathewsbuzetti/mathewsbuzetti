@@ -1,7 +1,6 @@
 # Mathews Buzetti | Azure Solutions Architect 🚀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewsbuzetti)
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-blue?style=for-the-badge&logo=microsoft)](https://mvp.microsoft.com/)
 [![Azure](https://img.shields.io/badge/Azure-Expert-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/microsoft-certified-azure-solutions-architect-expert)
 
 ## 💫 Sobre Mim
@@ -28,24 +27,6 @@
 ### Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-## 🎓 Certificações
-
-<div align="center">
-
-[![Azure Solutions Architect Expert](https://img.shields.io/badge/Azure_Solutions_Architect-Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000066)](#)
-[![DevOps Engineer Expert](https://img.shields.io/badge/DevOps_Engineer-Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000066)](#)
-[![Cybersecurity Architect Expert](https://img.shields.io/badge/Cybersecurity_Architect-Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000066)](#)
-
-[![Azure Administrator](https://img.shields.io/badge/Azure_Administrator-Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=004488)](#)
-[![Azure Security Engineer](https://img.shields.io/badge/Security_Engineer-Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=004488)](#)
-[![Google Cloud Security](https://img.shields.io/badge/Google_Cloud_Security-Professional-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=004488)](#)
-
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](#)
-[![AZ-305](https://img.shields.io/badge/AZ_305-Microsoft_Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=004488)](#)
-[![AZ-400](https://img.shields.io/badge/AZ_400-Microsoft_Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=004488)](#)
-
-</div>
 
 ## 🏆 Especialidades
 
