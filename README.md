@@ -8,26 +8,9 @@
 
 > Arquiteto de Soluções Microsoft Azure especializado em transformação digital e Modern Work & Security. Combinando visão estratégica com expertise técnica para entregar soluções cloud robustas e inovadoras.
 
-```mermaid
-mindmap
-  root((Azure Expert))
-    Cloud Architecture
-      Well-Architected Framework
-      High Availability
-      Disaster Recovery
-    Security & Compliance
-      Zero Trust
-      Identity Management
-      Compliance Framework
-    Cost Optimization
-      FinOps
-      Resource Optimization
-      License Management
-    Modern Work
-      M365
-      DevOps
-      Automation
-```
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=tokyonight)
 
 ## 🛠️ Tech Stack
 
@@ -80,10 +63,6 @@ mindmap
   - Infrastructure as Code
   - Configuration Management
   - Container Orchestration
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=tokyonight)
 
 ## 🌟 Principais Projetos
 
