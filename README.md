@@ -32,21 +32,19 @@
 ## 🎓 Certificações
 
 <div align="center">
-  <p>
-    <img height="100px" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Azure Solutions Architect Expert"/>
-    <img height="100px" src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="DevOps Engineer Expert"/>
-    <img height="100px" src="https://images.credly.com/size/680x680/images/28004779-9175-4fc8-946b-44a8d73b4C95/Cybersecurity_Architect_Expert.png" alt="Cybersecurity Architect Expert"/>
-  </p>
-  <p>
-    <img height="100px" src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate"/>
-    <img height="100px" src="https://images.credly.com/size/680x680/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" alt="Azure Security Engineer Associate"/>
-    <img height="100px" src="https://images.credly.com/size/680x680/images/2a15d440-edbe-4d4h-97fc-9b27c04c6eca/google-cloud-security-engineer.png" alt="Google Cloud Security Engineer"/>
-  </p>
-  <p>
-    <img height="100px" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate"/>
-    <img height="100px" src="https://images.credly.com/size/680x680/images/9d7dc4c0-5681-41ca-a4b4-8f67e411b3c0/image.png" alt="AZ-305"/>
-    <img height="100px" src="https://images.credly.com/size/680x680/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/image.png" alt="AZ-400"/>
-  </p>
+
+[![Azure Solutions Architect Expert](https://img.shields.io/badge/Azure_Solutions_Architect-Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000066)](#)
+[![DevOps Engineer Expert](https://img.shields.io/badge/DevOps_Engineer-Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000066)](#)
+[![Cybersecurity Architect Expert](https://img.shields.io/badge/Cybersecurity_Architect-Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000066)](#)
+
+[![Azure Administrator](https://img.shields.io/badge/Azure_Administrator-Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=004488)](#)
+[![Azure Security Engineer](https://img.shields.io/badge/Security_Engineer-Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=004488)](#)
+[![Google Cloud Security](https://img.shields.io/badge/Google_Cloud_Security-Professional-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=004488)](#)
+
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](#)
+[![AZ-305](https://img.shields.io/badge/AZ_305-Microsoft_Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=004488)](#)
+[![AZ-400](https://img.shields.io/badge/AZ_400-Microsoft_Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=004488)](#)
+
 </div>
 
 ## 🏆 Especialidades
