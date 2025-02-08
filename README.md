@@ -9,10 +9,6 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathewsbusetti&show_icons=true&theme=transparent)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mathewsbuzetti&theme=dark)](https://git.io/streak-stats)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=dark"
@@ -60,23 +56,6 @@
   - Infrastructure as Code
   - Configuration Management
   - Container Orchestration
-
-## 🌟 Principais Projetos
-
-### [azure-infrastructure-template](https://github.com/mathewsbuzetti/azure-infrastructure-template)
-Template IaC para ambiente Azure corporativo completo:
-- 🏗️ Windows Server 2022 + Alta Disponibilidade
-- 🔒 VPN Gateway (S2S e P2S) + NSG
-- 💾 Backup e Recovery Services
-- 🤖 Automação de start/stop para redução de custos
-- **Tech Stack:** PowerShell, Azure ARM Templates
-
-### [azure-securonix-deployment](https://github.com/mathewsbuzetti/azure-securonix-deployment)
-Template ARM otimizado para Securonix SIEM:
-- 🖥️ Oracle Linux 8.10 (4 vCPUs, 16GB RAM)
-- 💽 Storage (128GB SO + 300GB Premium)
-- 🔧 Configuração LVM
-- **Tech Stack:** ARM Templates, Shell Script
 
 ## 📫 Contato
 
