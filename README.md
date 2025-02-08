@@ -11,7 +11,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img width="495em" src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&layout=compact&theme=radical&hide_border=true&langs_count=4&hide=other&custom_title=Most%20Used%20Languages"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&layout=compact&theme=radical&hide_border=true&langs_count=4&include_all_commits=true"/>
 </div>
 
 ## 🛠️ Tech Stack
