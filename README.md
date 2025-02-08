@@ -9,9 +9,9 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; flex-direction: column; gap: 10px;">
   <img width="495em" src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00BFFF&text_color=4F94FF&icon_color=0080FF"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&include_all_commits=true&title_color=00BFFF&text_color=4F94FF"/>
+  <img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&include_all_commits=true&title_color=00BFFF&text_color=4F94FF"/>
 </div>
 
 ## 🛠️ Tech Stack
