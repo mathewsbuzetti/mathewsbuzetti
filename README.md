@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathewsbusetti&show_icons=true&theme=transparent)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mathewsbuzetti&theme=dark)](https://git.io/streak-stats)
 
