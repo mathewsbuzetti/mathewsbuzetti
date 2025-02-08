@@ -21,6 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true" />
 </picture>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&hide_progress=true)
+
 ## 🛠️ Tech Stack
 
 ### Cloud & Infrastructure
