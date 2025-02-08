@@ -21,8 +21,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true" />
 </picture>
 
+<div style="display: flex; justify-content: space-between;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=dark" />
+  </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathews&size_weight=0.5&count_weight=0.5)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&layout=compact&theme=dark&langs_count=3&hide=perl,makefile,go&custom_title=Top%20Languages" />
+</div>
 
 ## 🛠️ Tech Stack
 
