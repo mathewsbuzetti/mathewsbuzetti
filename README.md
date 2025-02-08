@@ -9,22 +9,6 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=dark" />
-  </picture>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&layout=compact&theme=dark&langs_count=3&hide=perl,makefile,go&custom_title=Top%20Languages" />
-</div>
-
 <div style="display: flex; gap: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&layout=compact&theme=dark&card_width=320"/>
