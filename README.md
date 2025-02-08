@@ -10,8 +10,8 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; gap: 10px;">
-  <img width="495em" src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&layout=compact&theme=radical&hide_border=true&langs_count=4&include_all_commits=true"/>
+  <img width="495em" src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=FF69B4&text_color=00FFFF&icon_color=FF69B4"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&layout=compact&theme=radical&hide_border=true&langs_count=4&include_all_commits=true&title_color=FF69B4&text_color=00FFFF"/>
 </div>
 
 ## 🛠️ Tech Stack
