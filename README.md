@@ -1,59 +1,47 @@
-# Mathews Buzetti | Azure Solutions Architect 🚀
+<h1 align="center">Mathews Buzetti</h1>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewsbuzetti) 
-[![Azure](https://img.shields.io/badge/Azure-Expert-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/users/mathewsbuzetti)
-[![Cloud Architect](https://img.shields.io/badge/Cloud-Architect-FF4500?style=for-the-badge&logo=cloud&logoColor=white)](#) 
+<p align="center">
+  <b>Azure Solutions Architect na IT-ONE</b><br>
+  FinOps, segurança e Modern Work em Azure, Google Cloud e Microsoft 365
+</p>
 
-## 💫 Sobre Mim
+<p align="center">
+  <a href="https://www.linkedin.com/in/mathewsbuzetti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.credly.com/users/mathewsbuzetti"><img src="https://img.shields.io/badge/Certificações-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Certificações no Credly"></a>
+</p>
 
-> Arquiteto de Soluções Microsoft Azure especializado em transformação digital e Modern Work & Security. Combinando visão estratégica com expertise técnica para entregar soluções cloud robustas e inovadoras.
+---
 
-## 📊 GitHub Stats
+## Sobre mim
 
-<img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00BFFF&text_color=4F94FF&icon_color=0080FF"/>
+Trabalho no time de Cloud da IT-ONE atendendo clientes em Azure, Google Cloud e Microsoft 365. O dia a dia vai do relatório mensal de custo com rateio por centro de custo até a remediação de recomendações do Defender for Cloud e a sustentação de Azure Virtual Desktop.
 
-## 🛠️ Tech Stack
+Tarefa que se repete mais de duas vezes vira script PowerShell, e é isso que você encontra nos meus repositórios.
 
-### Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-DD4B39?style=flat-square&logo=microsoft-office&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+## No que eu trabalho
 
-### DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+| Área | O que faço |
+|---|---|
+| **FinOps** | Relatório mensal de custo Azure em HTML, rateio por tags, recomendações de economia e acompanhamento de consumo |
+| **Segurança** | Remediação de recomendações do Defender for Cloud, governança e controle de acesso |
+| **Modern Work** | Azure Virtual Desktop com Nerdio, diagnóstico e reparo de perfis FSLogix, Microsoft 365 |
+| **Automação** | Scripts PowerShell com modo de validação antes de aplicar e seleção explícita de subscription |
 
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+## Stack
 
-## 🏆 Especialidades
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,powershell,terraform,git,github,vscode&theme=dark" alt="Azure, Google Cloud, PowerShell, Terraform, Git, GitHub, VS Code">
+</p>
 
-- **Arquitetura Cloud Azure**
-  - Desenho de soluções escaláveis e resilientes
-  - Implementação de arquiteturas multi-region
-  - Otimização de performance e custos
+Também: Microsoft 365, Entra ID, Defender for Cloud, Azure Virtual Desktop, FSLogix, Nerdio, Azure Cost Management.
 
-- **Modern Security**
-  - Zero Trust Architecture
-  - Identity & Access Management
-  - Security Center & Sentinel
-  - Compliance & Governance
+## No GitHub
 
-- **DevOps & Automation**
-  - CI/CD Pipelines
-  - Infrastructure as Code
-  - Configuration Management
-  - Container Orchestration
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mathewsbuzetti&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&cache_seconds=86400" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbuzetti&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&cache_seconds=86400" alt="Linguagens mais usadas">
+</p>
 
-## 📫 Contato
+## Contato
 
-Estou disponível para consultorias, projetos e parcerias. Entre em contato!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewsbuzetti)
-
-> "Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da inovação digital." 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=mathewsbuzetti&color=brightgreen)
+Para falar de Azure, FinOps ou automação com PowerShell, me chama no [LinkedIn](https://www.linkedin.com/in/mathewsbuzetti).
