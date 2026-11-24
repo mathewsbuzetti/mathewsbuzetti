@@ -14,9 +14,9 @@
 
 ## Sobre mim
 
-Trabalho no time de Cloud da IT-ONE atendendo clientes em Azure, Google Cloud e Microsoft 365. O dia a dia vai do relatório mensal de custo com rateio por centro de custo até a remediação de recomendações do Defender for Cloud e a sustentação de Azure Virtual Desktop.
+Sou do time de Cloud da IT-ONE e atendo clientes em Azure, Google Cloud e Microsoft 365. Meu trabalho gira em torno de custo e segurança: mostrar ao cliente para onde vai o dinheiro, quanto cada área paga e o que dá para cortar, e fechar as recomendações que ficam abertas no Defender for Cloud.
 
-Tarefa que se repete mais de duas vezes vira script PowerShell, e é isso que você encontra nos meus repositórios.
+Quando uma tarefa se repete, ela vira script PowerShell. Esses scripts são o que você encontra nos meus repositórios.
 
 ## No que eu trabalho
 
